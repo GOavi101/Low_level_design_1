@@ -1,5 +1,4 @@
 # Low_level_design_1
-CodinGame Platform
 CodinGame is an Online Coding Platform that allows a user to Sign Up, Create Contests and participate in Contests hosted by Others.
 
 Each contest can have a level (LOW, MEDIUM, HIGH) and will contain a set of questions.
